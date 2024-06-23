@@ -1,3 +1,3 @@
 getmeili/meilisearch:v1.7.3
 ankane/pgvector:latest
-danny-avila/librechat-rag-api-dev-lite:latest
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
